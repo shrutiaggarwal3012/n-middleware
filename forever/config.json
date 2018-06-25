@@ -1,0 +1,9 @@
+{
+  "uid": "custom-middleware",
+  "append": true,
+  "script": "server.js",
+  "max": 10,
+  "logFile": "./logs/forever.log",
+  "errFile": "./logs/error.log",
+  "outFile": "./logs/output.log"
+}
